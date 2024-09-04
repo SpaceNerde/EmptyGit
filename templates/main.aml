@@ -1,3 +1,4 @@
-for branch in branches
-    text branch
+vstack
+  for branch in branches
+      text branch
 
