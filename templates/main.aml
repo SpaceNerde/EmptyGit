@@ -1,0 +1,3 @@
+for branch in branches
+    text branch
+
